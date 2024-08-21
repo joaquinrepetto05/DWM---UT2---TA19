@@ -1,0 +1,14 @@
+.error {
+    color: red;
+    font-size: 0.9em;
+    display: none; /* Oculto por defecto */
+  }
+  
+  input {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input.invalid {
+    border-color: red;
+  }  
